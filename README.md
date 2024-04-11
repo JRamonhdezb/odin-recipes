@@ -1,2 +1,2 @@
 # odin-recipes
-Hello, this is my first project in The odin project curriculum. In this project i only used html to make my web page about easy recipes.  
+This is my first project in "The Odin Project" curriculum. The project consists of a basic website of simple recipes. The purpose of the project is to apply or use the knowledge acquired from the HTML section, where the basics are covered. The lessons covered were "HTML boilerplate", elements and tags, links, images, paragraphs and headings, and lists. 
